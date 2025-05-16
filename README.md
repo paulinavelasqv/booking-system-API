@@ -1,11 +1,11 @@
 
-# Sistema de Reservas (Turnos/Citas)
+# 📅 Sistema de Reservas (Turnos/Citas)
 
 API backend para un sistema de reservas con autenticación, administración de disponibilidad y gestión de citas.
 
 ---
 
-## Tecnologías
+## 🚀 Tecnologías utilizadas
 
 - Node.js  
 - Express  
@@ -15,7 +15,7 @@ API backend para un sistema de reservas con autenticación, administración de d
 
 ---
 
-## Funcionalidades principales
+## ⚙️ Funcionalidades principales
 
 - Registro y login de usuarios (con roles `user` y `admin`).  
 - Crear, ver y cancelar citas (usuarios).  
@@ -26,7 +26,7 @@ API backend para un sistema de reservas con autenticación, administración de d
 
 ---
 
-## Instalación
+## 🔧 Instalación
 
 1. Clona el repositorio
 
@@ -66,7 +66,7 @@ npm start
 
 ---
 
-## Endpoints principales
+## 📋 Endpoints principales
 
 ### Autenticación
 
@@ -101,12 +101,18 @@ npm start
 
 ---
 
-## Contribuciones
+## 🤝 Contribuciones
 
 Pull requests y sugerencias son bienvenidas.
 
 ---
 
-## Licencia
+## 📫 Contacto
 
-MIT License.
+Paulina Velásquez - [paulinavelasqv@gmail.com](mailto:paulinavelasqv@gmail.com)
+
+GitHub: [https://github.com/paulinavelasqv](https://github.com/paulinavelasqv)
+
+---
+
+¡Gracias por visitar mi proyecto! 😊
